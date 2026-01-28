@@ -1,0 +1,5 @@
+{
+  "name": "ClassManager - Hệ thống Quản lý Lớp chủ nhiệm",
+  "description": "Một ứng dụng quản lý lớp học toàn diện dành cho giáo viên và phụ huynh, hỗ trợ điểm danh, theo dõi hành vi, giao bài tập và trao đổi thông tin.",
+  "requestFramePermissions": []
+}
